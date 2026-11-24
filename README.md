@@ -6,7 +6,8 @@ I'm a first-year CSE undergraduate at Saveetha Engineering College, interested i
 
 ## 💻 Skills
 - Python Programming
-- digital electronics 
+- digital electronics
+- Autodesk Fusion360
 
 ## 🚀 Interests
 - Artificial Intelligence
